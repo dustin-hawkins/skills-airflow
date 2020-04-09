@@ -1,0 +1,5 @@
+PGPORT: 5432
+PGHOST: postgres
+PGDATABASE: airflow
+PGUSER: airflow
+PGPASSWORD: airflow
